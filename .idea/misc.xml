@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/PJ/Android/E04Firebase/app/src/main/res/layout/activity_firebase1.xml" value="0.36614583333333334" />
         <entry key="..\:/PJ/Android/E04Firebase/app/src/main/res/layout/activity_main.xml" value="0.3515625" />
+        <entry key="..\:/PJ/Android/E04Firebase/app/src/main/res/layout/activity_memo.xml" value="0.23369565217391305" />
+        <entry key="..\:/PJ/Android/E04Firebase/app/src/main/res/layout/activity_memo_list.xml" value="0.23369565217391305" />
+        <entry key="..\:/PJ/Android/E04Firebase/app/src/main/res/layout/memo.xml" value="0.22" />
+        <entry key="..\:/PJ/Android/E04Firebase/app/src/main/res/menu/menu_memo_list.xml" value="0.36614583333333334" />
       </map>
     </option>
   </component>

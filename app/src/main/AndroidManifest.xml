@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.E04Firebase">
         <activity
+            android:name=".MemoListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MemoActivity"
+            android:exported="false" />
+        <activity
             android:name=".Firebase1Activity"
             android:exported="false" />
         <activity
