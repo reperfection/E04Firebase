@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769829413707",
+    "firebase_url": "https://jaewan-app-default-rtdb.firebaseio.com",
+    "project_id": "jaewan-app",
+    "storage_bucket": "jaewan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769829413707:android:de83cfb54c1628da267ece",
+        "android_client_info": {
+          "package_name": "net.skhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769829413707-gnm68pge47fh6jcf1eii59o1vat8bahg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2xK9Dzb2RX6DZIwaFU1848wwua00dYu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769829413707-gnm68pge47fh6jcf1eii59o1vat8bahg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
